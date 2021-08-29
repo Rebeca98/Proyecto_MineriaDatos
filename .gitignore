@@ -1,0 +1,7 @@
+# Spyder project settings
+.spyderproject
+.spyproject
+
+.DS_Store
+.vscode/
+

@@ -1,0 +1,6 @@
+name: Data_Mining
+channels:
+  - conda-forge
+dependencies:
+  - seaborn
+  - jupyter
