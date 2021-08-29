@@ -1,4 +1,10 @@
 # Proyecto_MineriaDatos
+## Integrantes: 
+- Rebeca Angulo: rbbkitanias@gmail.com
+- Renata: monrubi8@gmail.com
+- Isabella: isabella@elgallonegro.org
+- Diego Schocher:Schocher.dra@gmail.com
+- Fransisco: frangonzarico@gmail.com
 
 1. Clonar el entorno de conda con `conda env create nombre`.
 
