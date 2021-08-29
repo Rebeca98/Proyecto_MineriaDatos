@@ -15,11 +15,16 @@ pandoc -t revealjs -V theme=moon --mathjax --slide-level=2 -s Propuesta.md -o pr
 
 
 ### Paquetes para instalar:
-`conda install jupyter notebook`\\
+`conda install jupyter notebook`
+
 `conda install -c conda-forge tensorflow`
+
 `conda install -c conda-forge matplotlib`
+
 `conda install -c anaconda pandas`
+
 `conda install -c anaconda numpy`
+
 `conda install -c jmcmurray os`
 
 # check installed packages in conda env 
