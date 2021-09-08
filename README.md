@@ -39,6 +39,8 @@ pandoc -t revealjs -V theme=moon --mathjax --slide-level=2 -s Propuesta.md -o pr
 
 `conda install -c conda-forge descartes`
 
+`pip install pyspellchecker==0.5.6`
+
 # check installed packages in conda env 
 `conda list`
 
