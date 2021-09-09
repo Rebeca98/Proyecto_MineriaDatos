@@ -41,6 +41,8 @@ pandoc -t revealjs -V theme=moon --mathjax --slide-level=2 -s Propuesta.md -o pr
 
 `pip install pyspellchecker==0.5.6`
 
+`conda install -c conda-forge rapidfuzz`
+
 # check installed packages in conda env 
 `conda list`
 
