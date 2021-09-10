@@ -1,0 +1,9 @@
+name: Mineros
+channels:
+  - anaconda
+  - conda-forge
+  - anaconda-fusion
+  - defaults
+dependencies:
+- jupyter notebook
+ 
