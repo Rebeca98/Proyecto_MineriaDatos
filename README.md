@@ -10,7 +10,7 @@
 `conda env create -n nombre`
 
 2. Eliminar el entorno
-`conda remove --name nombre_env --all`
+`conda env create -n Mineros python=3`
 
 4. Comando para sacar presentación
 
