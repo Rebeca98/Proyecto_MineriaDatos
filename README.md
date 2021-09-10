@@ -6,10 +6,13 @@
 - Diego Schocher:Schocher.dra@gmail.com
 - Fransisco: frangonzarico@gmail.com
 
-1. Clonar el entorno de conda con 
-`conda env create -n nombre`.
+1. Crear el entorno de conda con 
+`conda env create -n nombre`
 
-2. Comando para sacar presentación
+2. Eliminar el entorno
+`conda remove --name nombre_env --all`
+
+4. Comando para sacar presentación
 
 `cd propuesta`
 
