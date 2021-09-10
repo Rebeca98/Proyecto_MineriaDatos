@@ -12,8 +12,10 @@
 2. Eliminar el entorno
 `conda env create -n Mineros python=3`
 
-4. Comando para sacar presentación
+3. Crear el entorno desde un archivo de texto
+`conda install --yes --file requirements.txt
 
+Comando para sacar presentación
 `cd propuesta`
 
 ```
