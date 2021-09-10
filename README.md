@@ -6,7 +6,8 @@
 - Diego Schocher:Schocher.dra@gmail.com
 - Fransisco: frangonzarico@gmail.com
 
-1. Clonar el entorno de conda con `conda env create nombre`.
+1. Clonar el entorno de conda con 
+`conda env create -n nombre`.
 
 2. Comando para sacar presentación
 
