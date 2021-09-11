@@ -6,10 +6,16 @@
 - Diego Schocher:Schocher.dra@gmail.com
 - Fransisco: frangonzarico@gmail.com
 
-1. Clonar el entorno de conda con `conda env create nombre`.
+1. Crear el entorno de conda con 
+`conda env create -n nombre`
 
-2. Comando para sacar presentación
+2. Eliminar el entorno
+`conda env create -n Mineros python=3`
 
+3. Crear el entorno desde un archivo de texto
+`conda install --yes --file requirements.txt
+
+Comando para sacar presentación
 `cd propuesta`
 
 ```
@@ -43,7 +49,7 @@ pandoc -t revealjs -V theme=moon --mathjax --slide-level=2 -s Propuesta.md -o pr
 
 `conda install -c conda-forge rapidfuzz`
 
-`pip install geopy
+conda install -c conda-forge geopy
 
 # check installed packages in conda env 
 `conda list`
