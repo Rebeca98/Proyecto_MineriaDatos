@@ -10,7 +10,7 @@
 `conda env create -n nombre`
 
 2. Eliminar el entorno
-`conda env create -n Mineros python=3`
+`conda env remove -n nombre_entorno`
 
 3. Crear el entorno desde un archivo de texto
 `conda install --yes --file requirements.txt
