@@ -10,7 +10,7 @@
 `conda env create -n nombre`
 
 2. Eliminar el entorno
-`conda env create -n Mineros python=3`
+`conda env remove -n nombre_entorno`
 
 3. Crear el entorno desde un archivo de texto
 `conda install --yes --file requirements.txt
@@ -42,6 +42,10 @@ pandoc -t revealjs -V theme=moon --mathjax --slide-level=2 -s Propuesta.md -o pr
 `pip install turtle`
 
 `conda install -c conda-forge geopandas`
+
+`conda install -c anaconda pillow`
+
+`conda install -c anaconda requests`
 
 `conda install -c conda-forge descartes`
 
