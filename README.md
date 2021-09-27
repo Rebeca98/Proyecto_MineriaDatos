@@ -62,3 +62,5 @@ conda install -c conda-forge geopy
 https://drive.google.com/drive/folders/1TI2QV4xTLv14DocmXmOOBP-1mAAJfNLw?usp=sharing
 
 DATOS geograficos LA: https://geohub.lacity.org/search?collection=Dataset
+
+Diagrama: https://app.diagrams.net/#HRebeca98%2FProyecto_MineriaDatos%2Fmain%2FUntitled%20Diagram.drawio
