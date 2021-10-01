@@ -82,3 +82,18 @@ Input: clean data
 NLP Techniques: advanced analysisis techniques
 Output: additional insights about our data to help us answer our question
 
+**TOPIC MODELING**
+- INPUT: a document-term matrix. Each topic will consiste of a set of words where order doesn matter, so we are going to start with the bag of words format. }
+- gensim: Python toolkit for topic modeling. We are going to use a topic modeling techniue called Latent Dirichlet Allocation and use nltk for some parts-of-speech tagging. It will find the best word distribution for each topic and best topic distribution for each document. 
+- Output: the top words in each topic. 
+
+every document consiste of a mix of topics and every topic is a mix of words. 
+This is a probabilistic approach to topic modeling. There are also matrix factorization techniques for topic modeling such as Latent Semantic Indexing and Non-negative Matrix Factorization. 
+
+**Text Generation**
+Input: A corpus. We want to preserve the order of the text, including punctuation. 
+We are going to use Markov Chains to do this, and we can implement this using Python's built-in functions. 
+Markov chains are a way of representing how systems change over time. The main concept behind MC are that they are memoryless, meaning that the next state of a process only depends on the previous state. 
+
+- Create a dictionary for a corpus where the keys are the current state and the values are the options for the next state. write a function to randomly generate next terms. 
+- This is a oversimplified way of generating text. A much more complex technique would be to use deep learning and Long Short-Term Memory (LSTM).  
