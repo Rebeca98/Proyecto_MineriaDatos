@@ -97,3 +97,5 @@ Markov chains are a way of representing how systems change over time. The main c
 
 - Create a dictionary for a corpus where the keys are the current state and the values are the options for the next state. write a function to randomly generate next terms. 
 - This is a oversimplified way of generating text. A much more complex technique would be to use deep learning and Long Short-Term Memory (LSTM).  
+
+Reference: Natural Language Processing in Python, Alice Zhao. github.com/adashofdata
