@@ -63,7 +63,22 @@ Document-Term Matrix
 - the values are word counts
 we can do this using scikit-learn, Count Vectorizer: sklearn way to make a DTM
 
+Exploratory Data Analysis
+Input: a corpus and a document-term matrix
+EDA: summarize the main characteristics of the data set, often using visual methods
+Output: figure out the main trends in the data and if it makes sense. 
 
+Explore:
+1. top words: find the most common words for each comedian
+    - visualize: word clouds
+    - insights: now that you have a bunch of word clouds, you can visually determine a few things:
+      - does the data makes sense?
+      - can we further clean the data?
+      - what are some initial findings?    
+2. Vocabulary: take a look at the unique number of words used
 
-
+NLP Techniques:
+Input: clean data
+NLP Techniques: advanced analysisis techniques
+Output: additional insights about our data to help us answer our question
 
