@@ -56,6 +56,11 @@ pandoc -t revealjs -V theme=moon --mathjax --slide-level=2 -s Propuesta.md -o pr
 
 `conda install -c conda-forge geopy`
 
+# para las imagenes:
+conda install -c conda-forge imutils
+conda install -c anaconda scikit-image
+conda install -c anaconda scikit-image
+
 # check installed packages in conda env 
 `conda list`
 
