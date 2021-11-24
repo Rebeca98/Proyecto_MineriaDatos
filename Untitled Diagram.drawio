@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-24T16:50:34.299Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="J0scP2VHIK_fEzOB2uJH" version="15.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-24T17:10:17.791Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="c-ziBTMYZH4JxBKXTqzQ" version="15.5.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2418" dy="2078" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -951,8 +951,11 @@
         <mxCell id="-riBp8X-VXEdf3SSIaoU-414" value="&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Objetivos particualres&lt;/b&gt;&lt;/span&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;sketch=0;strokeColor=#36393d;fillColor=#FFA3FF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="972" y="1970" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-riBp8X-VXEdf3SSIaoU-416" value="Variables Explicativas" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;sketch=0;strokeWidth=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="345" y="2161" width="156" height="60" as="geometry" />
+        <mxCell id="-riBp8X-VXEdf3SSIaoU-432" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;fontColor=#000000;strokeColor=#000000;fillColor=#FFE45E;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-riBp8X-VXEdf3SSIaoU-416" target="-riBp8X-VXEdf3SSIaoU-431">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-riBp8X-VXEdf3SSIaoU-416" value="GridSearch" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;sketch=0;strokeWidth=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="300" y="2180" width="156" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-riBp8X-VXEdf3SSIaoU-417" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-riBp8X-VXEdf3SSIaoU-418">
           <mxGeometry relative="1" as="geometry">
@@ -962,8 +965,38 @@
         <mxCell id="-riBp8X-VXEdf3SSIaoU-418" value="R^2" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;sketch=0;strokeWidth=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="581" y="2161" width="156" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-riBp8X-VXEdf3SSIaoU-426" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontSize=14;fontColor=#000000;strokeColor=#FF6392;fillColor=#FFA3FF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="816" y="2161" width="424" height="129" as="geometry" />
+        <mxCell id="-riBp8X-VXEdf3SSIaoU-428" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;fontColor=#000000;strokeColor=#000000;fillColor=#FFE45E;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-riBp8X-VXEdf3SSIaoU-426" target="-riBp8X-VXEdf3SSIaoU-427">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-riBp8X-VXEdf3SSIaoU-426" value="&lt;div&gt;coeficiente de determinación:&lt;/div&gt;&lt;div&gt;Representa la proporción de varianza (de y) que ha sido explicada por las variables independientes en el modelo.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontSize=14;fontColor=#000000;strokeColor=#FF6392;fillColor=#FFA3FF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="816" y="2161" width="424" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="-riBp8X-VXEdf3SSIaoU-430" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;fontColor=#000000;strokeColor=#000000;fillColor=#FFE45E;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-riBp8X-VXEdf3SSIaoU-427" target="-riBp8X-VXEdf3SSIaoU-429">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-riBp8X-VXEdf3SSIaoU-427" value="Es un indicador que muestra que tan bien predice el modelo nuestros datos desconocidosa través de la proporción de varianza explicada" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontSize=14;fontColor=#000000;strokeColor=#FF6392;fillColor=#FFA3FF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="817" y="2290" width="424" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="-riBp8X-VXEdf3SSIaoU-429" value="La mejor puntuación posible es 1.0 y puede ser negativa (porque el modelo puede ser arbitrariamente peor). Un modelo constante que siempre predice el valor esperado de y, sin tener en cuenta las características de entrada, obtendría una puntuación R² de 0.0." style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontSize=14;fontColor=#000000;strokeColor=#FF6392;fillColor=#FFA3FF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="802.5" y="2390" width="453" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="-riBp8X-VXEdf3SSIaoU-434" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;fontColor=#000000;strokeColor=#000000;fillColor=#FFE45E;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-riBp8X-VXEdf3SSIaoU-431" target="-riBp8X-VXEdf3SSIaoU-433">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-riBp8X-VXEdf3SSIaoU-431" value="Búsqueda exhaustiva de valores de parámetros especificados para un estimador." style="rounded=1;whiteSpace=wrap;html=1;shadow=0;sketch=0;strokeWidth=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="300" y="2320" width="156" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="-riBp8X-VXEdf3SSIaoU-436" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;fontColor=#000000;strokeColor=#000000;fillColor=#FFE45E;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-riBp8X-VXEdf3SSIaoU-433" target="-riBp8X-VXEdf3SSIaoU-435">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-riBp8X-VXEdf3SSIaoU-433" value="best_score" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;sketch=0;strokeWidth=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="300" y="2490" width="156" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-riBp8X-VXEdf3SSIaoU-435" value="Mean cross-validated score of the best_estimator" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;sketch=0;strokeWidth=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="300" y="2610" width="156" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-riBp8X-VXEdf3SSIaoU-437" value="MSE" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;sketch=0;strokeWidth=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="594" y="2550" width="156" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
