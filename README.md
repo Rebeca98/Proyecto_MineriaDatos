@@ -7,6 +7,7 @@
 
 1. Crear el entorno de conda con 
 `conda env create -n nombre`
+ejemplo: conda create -n Mineros python=3
 
 2. Eliminar el entorno
 `conda env remove -n nombre_entorno`
